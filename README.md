@@ -5,6 +5,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 - create-next-app コマンド
 - Link コンポーネントの children には、&lt;a&gt;タグを含めない
 - /public/images フォルダを作成し、profile.jpg 画像を配置する。（無くても問題なし）
+- API Routes ファンクション名は handler
 
 ### 参考動画
 
